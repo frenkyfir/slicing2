@@ -1,0 +1,7 @@
+{
+    "openai_key": "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",
+    "modules": [
+        "dashboard",
+        "product_detail"
+    ]
+}
